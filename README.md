@@ -4,96 +4,75 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kek Tarifi</title>
+    <title>Ana Sayfa</title>
 </head>
 <body>
-    <!-- Navbar - Start -->
+    <!-- nav bar start -->
+    <header>
+        <h2>KEK TARİFİ</h2>
+            <nav>
+                <p>Kısa sürede lezzetli bir kakaolu kek yapmak için tarifimizi inceleyin
+                </p>
+                <br>
+                <p><strong>Tarif:</strong> Beril Ay</p>
+                <p>
+                   
+                    <li>
+                        <strong>Kaç kişilik:</strong> 12 dilim <strong>Hazırlanma süresi:</strong>10 dakika <strong>Pişirme süresi:</strong>25 dakika      
+                    </li>
+                </p>    
+
+            </nav>
+        
+
+    </header>
+    <!-- nav bar end -->
+    <!-- Contect start -->
+
+    <section>
+
+      <!-- Articles start -->
+    <article>
+        <h3>Lezzetli Kek Tarifi</h3>
+        <ul>
+            <li>3 adet yumurta</li> 
+            <li>1 su bardağı süt</li>
+            <li>1 su bardağı sıvıyağ</li>
+            <li>1 su bardağı toz şeker</li>
+            <li>3 su bardağı un</li>
+            <li>1 paket kabartma tozu</li>
+            <li>1 paket vanilya</li>
+            <li>3 yemek kaşığı kakao</li>
+           
+        </ul>
+    </article>
+    <article>
+        <h3>Yapılışı</h3>
+        <ol>
+            <li>Uygun bir kap içerisinde yumurtayı ve şekeri 5 dakika çırpalım.</li>
+            <li>Daha sonra üstüne süt ve sıvıyağı ekleyip karıştırmaya devam edelim.</li>
+            <li>Un, kabartma tozu ve vanilyayı ekleyip karıştıralım.</li>
+            <li>Son olarak kakaoyu ekleyip karışımı yağlamış olduğumuz kek kalıbına alalım.</li>
+            <li>Fırında 20-25 dakika 170 derecede kontrollü bir şekilde pişirelim.</li>
+            <li>Fırından aldığımız keki soğuyunca dilimleyerek servis edebiliriz.</li>
+        </ol>
+    </article>
+
+    <!-- Articles end -->
+
+    </section>
+    <!-- Contect end -->
+    <!-- Footer start -->
     <header>
         <nav>
-            <ul>
-                <li>
-                    <a href="index.html">Ana Sayfa</a>
-                    </li>
-                    <li>
-                        <a href="about-us.html">Hakkımızda</a>
-                        </li>
-                        <li>
-                            <a href="contact.html">İletişim</a>
-                        </li>
-            </ul>
+                    <!-- optional -->
+                    <p><strong>Afiyet Olsun..</strong> </p>
+
         </nav>
-    </header>
 
 
     </header>
-    <!-- Navbar - End -->
 
-    <!-- Content - Start -->
-    <section></section>
-         <!-- Articles - Start -->
-         <article>
-            <h2>Malzemeler</h2>
-            <img src="https://cdn.ye-mek.net/App_UI/Img/out/650/2021/11/mozaik-kek-resimli-yemek-tarifi(15).jpg?h=487&w=650" alt="Yazi 1"
-            <p>Lorem ipsum dolor sit, amet consacteur adiipiscing elit. Ex obcaccati</p>
-            <p>Lorem ipsum dolor sit amet.</p>
-            <p>Sapiente eveniet provident eos pariatur.</p>
-            <p>Distinctio, voluptates! In, commodi illo!</p>
-            <ol>
-                <li>Lorem, ipsum dolor.</li>
-                <li>Ratione, obcaecati laudantium!</li>
-                <li>Veniam, deleniti tempore!</li>
-                <li>Odit, aperiam modi?</li>
-            </ol>
-            <hr>
-         </article>
-         <article>
-            <h2>İkinci Yazı</h2>
-            <img src="https://picsum.photos/id/27/600/300" alt="Yazi 1"
-            <p>Lorem ipsum dolor sit, amet consacteur adiipiscing elit. Ex obcaccati</p>
-            <p>Lorem ipsum dolor sit amet.</p>
-            <p>Sapiente eveniet provident eos pariatur.</p>
-            <p>Distinctio, voluptates! In, commodi illo!</p>
-            <ul>
-                <li>Lorem, ipsum dolor.</li>
-                <li>Ratione, obcaecati laudantium!</li>
-                <li>Veniam, deleniti tempore!</li>
-                <li>Odit, aperiam modi?</li>
-            </ul>
-            <hr>
-         </article>
-         <article>
-            <h2>Üçüncü Yazı</h2>
-            <img src="https://picsum.photos/id/217/600/300" alt="Yazi 1"
-            <p>Lorem ipsum dolor sit, amet consacteur adiipiscing elit. Ex obcaccati</p>
-            <p>Lorem ipsum dolor sit amet.</p>
-            <p>Sapiente eveniet provident eos pariatur.</p>
-            <p>Distinctio, voluptates! In, commodi illo!</p>
-            <hr>
-         </article>
-         <!-- Articles - End -->
-    <!-- Content - End -->
-
-    <!-- Footer - Start -->
-    <footer>
-        <nav>
-            <ul>
-                <li>
-                    <a href="index.html">Ana Sayfa</a>
-                    </li>
-                    <li>
-                        <a href="about-us.html">Hakkımızda</a>
-                        </li>
-                        <li>
-                            <a href="contact.html">İletişim</a>
-                        </li>
-            </ul>
-        </nav>
-
-    </footer>
-    <!-- Footer - End -->
-
-
-
-    
+    <!-- Footer end -->
 </body>
 </html>
