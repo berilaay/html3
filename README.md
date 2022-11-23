@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ana Sayfa</title>
+    <title>Kek Tarifi</title>
 </head>
 <body>
     <!-- Navbar - Start -->
@@ -32,8 +32,8 @@
     <section></section>
          <!-- Articles - Start -->
          <article>
-            <h2>Birinci Yazı</h2>
-            <img src="https://picsum.photos/id/237/600/300" alt="Yazi 1"
+            <h2>Malzemeler</h2>
+            <img src="https://cdn.ye-mek.net/App_UI/Img/out/650/2021/11/mozaik-kek-resimli-yemek-tarifi(15).jpg?h=487&w=650" alt="Yazi 1"
             <p>Lorem ipsum dolor sit, amet consacteur adiipiscing elit. Ex obcaccati</p>
             <p>Lorem ipsum dolor sit amet.</p>
             <p>Sapiente eveniet provident eos pariatur.</p>
